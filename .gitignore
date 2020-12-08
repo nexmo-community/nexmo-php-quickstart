@@ -3,3 +3,6 @@ private.key
 .env
 composer.lock
 .DS_Store
+composer.phar
+report.zip
+composer-setup.php
